@@ -1,3 +1,3 @@
-# Havelsan-Pardus-1.Gun-Odev
+# Havelsan Pardus Liman Kampı Ödevleri
 
 Ödevin cevaplarını içeren PDF dosyası paylaşılmıştır.
